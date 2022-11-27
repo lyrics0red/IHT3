@@ -17,8 +17,8 @@
 <p><b>afterRefactorFromAssem.exe</b>: <b>in1.txt</b> -> <b>FromAssem/res1.txt</b>; <b>in2.txt</b> -> <b>FromAssem/res2.txt</b>; <b>in3.txt</b> -> <b>FromAssem/res3.txt</b></p>
 <p>Демонстрация запуска исполняемых файлов на разных входных данных и их соответствие нужному результату могут быть найдены в папке <b>IHT3/IHT3/Screenshots</b>. <b>testC.jpg</b> демонстрирует тестовый прогон исполняемого файла, полученного компиляцией программы на C. <b>testAssem.jpg</b> демонстрирует тестовый прогон исполняемого файла, полученного компиляцией программы на отредактированном ассемблере.</p>
 
-![image](https://user-images.githubusercontent.com/90769620/201541487-1da50b13-7dbf-42d2-bb5a-ff1b1e1f5eaa.png)
-![image](https://user-images.githubusercontent.com/90769620/201541492-e19d091f-d067-4690-bf84-a10af041866d.png)
+![image](https://user-images.githubusercontent.com/90769620/204155308-d168e632-bec1-48b9-99ec-d2945b4927af.png)
+![image](https://user-images.githubusercontent.com/90769620/204155460-542f89cf-706b-482a-8147-9fb838bddd7d.png)
 
 ## 6) Исходные тексты программы на C
 <p>В папке <b>IHT3/IHT3/C</b> расположены файлы программы на C: <b>main.c</b> и <b>modify.c</b></p>
